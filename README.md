@@ -1,14 +1,13 @@
 # Tech Ladies Boston Lightning Talks 2019
 
 ### Intro
-<a href="" target="_blank">Intro and Speaker Lineup</a>
 [Intro and Speaker Lineup](https://www.canva.com/design/DADs__Fec3s/pIfk46PXxjmdM1LZe2pQKA/view)
 <br/><br/>
 ### Jen Paxton
 [Nailing your next interview](https://docs.google.com/presentation/d/16e59VvrtkSugeuhoWrSx1jCPqOWM8cHS)
 <br/><br/>
 ### Christine Chapman
-[SDE TO SDM](https://docs.google.com/presentation/d/1WZC1qri47RsuiQGJshxkoJltKPEtOShFV5gLY7_CFNU)
+[SDE to SDM](https://docs.google.com/presentation/d/1WZC1qri47RsuiQGJshxkoJltKPEtOShFV5gLY7_CFNU)
 <br/><br/>
 ### Melissa Obleada
 [Starting Small to Go Big: Grassroots D&I at Work](https://docs.google.com/presentation/d/16Sl3QkDLeRDIHIMa_PWDXTGV3-fnTWVrWmbCRRTo8ZA)
